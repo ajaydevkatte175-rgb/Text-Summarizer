@@ -1,0 +1,32 @@
+
+# Core NLP
+transformers[sentencepiece]
+datasets
+torch
+nltk
+tqdm
+pandas
+PyYAML
+
+# Evaluation
+sacrebleu
+rouge_score
+py7zr
+
+# API & Web
+fastapi
+uvicorn
+Jinja2
+
+# Cloud & Utilities
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+
+# Dev / Research (optional)
+notebook
+matplotlib
+
+# Local package
+-e .
